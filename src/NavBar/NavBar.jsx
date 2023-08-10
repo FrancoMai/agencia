@@ -51,7 +51,7 @@ const NavBar = () => {
                   Dropdown
                 </MDBDropdownToggle>
                 <MDBDropdownMenu>
-                  <MDBDropdownItem link>pito</MDBDropdownItem>
+                  <MDBDropdownItem link>Action</MDBDropdownItem>
                   <MDBDropdownItem link>Another action</MDBDropdownItem>
                   <MDBDropdownItem link>Something else here</MDBDropdownItem>
                 </MDBDropdownMenu>
